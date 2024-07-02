@@ -1,4 +1,4 @@
-<h2 align="center"></h2>
+<h2 align="left"></h2>
 
 ###
 
@@ -23,8 +23,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lainecedes&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&custom_title=%F0%9F%8C%B8%20%20lainecedes'%20stats%20%F0%9F%8C%B8" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lainecedes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&custom_title=%E2%AD%90%EF%B8%8F%20languages%20%E2%AD%90%EF%B8%8F" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lainecedes&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&custom_title=%F0%9F%8C%B8%20%20lainecedes'%20stats%20%F0%9F%8C%B8" height="200" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lainecedes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&custom_title=%E2%AD%90%EF%B8%8F%20languages%20%E2%AD%90%EF%B8%8F" height="200" alt="languages graph"  />
 </div>
 
 ###
